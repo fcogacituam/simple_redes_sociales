@@ -1,0 +1,84 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: my-pluginname 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-06 13:46-0400\n"
+"PO-Revision-Date: 2017-12-18 11:53-0300\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.5\n"
+"Language: es_CL\n"
+
+#: simple_redes_sociales.php:277
+msgid "Copy and paste the full Social Network URL"
+msgstr "Copia y Pega la URL completa de tu Red Social"
+
+#: simple_redes_sociales.php:280
+msgid "Manage the plugin colors"
+msgstr "Modifica los colores del plugin"
+
+#: simple_redes_sociales.php:257
+msgid "Settings Saved"
+msgstr "Preferencias guardadas."
+
+#: simple_redes_sociales.php:301
+msgid "Add your social networks"
+msgstr "Añade tus principales Redes Sociales"
+
+#: simple_redes_sociales.php:387
+msgid "Settings"
+msgstr "Configuración"
+
+#: simple_redes_sociales.php:403
+msgid "Add your Facebook URL"
+msgstr "Ingresa la URL de tu página de facebook"
+
+#: simple_redes_sociales.php:408
+msgid "Add your Twitter URL"
+msgstr "Ingresa la URL de tu página de Twitter"
+
+#: simple_redes_sociales.php:413
+msgid "Add your Youtube URL"
+msgstr "Ingresa la URL de tu página de Youtube"
+
+#: simple_redes_sociales.php:418
+msgid "Add your instagram URL"
+msgstr "Ingresa la URL de tu página de instagram"
+
+#: simple_redes_sociales.php:423
+msgid "Add your Google+ URL"
+msgstr "Ingresa la URL de tu página de Google+"
+
+#: simple_redes_sociales.php:428
+msgid "Add your LinkedIn URL"
+msgstr "Ingresa la URL de tu página de LinkedIn"
+
+#: simple_redes_sociales.php:433
+msgid "Add your Spotify URL"
+msgstr "Ingresa la URL de tu página de Spotify"
+
+#: simple_redes_sociales.php:438
+msgid "Add your Pinterest URL"
+msgstr "Ingresa la URL de tu página de Pinterest"
+
+#: simple_redes_sociales.php:443
+msgid "Add your Reddit URL"
+msgstr "Ingresa la URL de tu página de Reddit"
+
+#: simple_redes_sociales.php:448
+msgid "Add your Tumblr URL"
+msgstr "Ingresa la URL de tu página de Tumblr"
+
+#: simple_redes_sociales.php:453
+msgid "Add your WeChat URL"
+msgstr "Ingresa la URL de tu página de WeChat"

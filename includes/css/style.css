@@ -1,0 +1,78 @@
+.social {
+    position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+    right: 0; /* Establecemos la barra en la izquierda */
+    top: 200px; /* Bajamos la barra 200px de arriba a abajo */
+    z-index: 99999; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+ 
+.social ul { list-style: none;width: 50px;}
+.social ul li{padding: 0;text-align: center;cursor: pointer;width: 100%;overflow: hidden;float: right;
+height: 42px;
+-webkit-transition: all .4s linear;
+   -moz-transition: all .4s linear;
+    -ms-transition: all .4s linear;
+     -o-transition: all .4s linear;
+        transition: all .4s linear;
+padding: 7px;}
+ 
+.social ul li a {  position: relative;width: 100%;color: #fff;display: inline-block; }
+ 
+.expanded{width: 270%!important;}
+.hiden-social{   position: absolute;    left: 0;    right: 0;    color: #fff;    width: 100%;    top: -100%;
+}
+
+.social ul li a span{-webkit-transition: all .4s linear;
+   -moz-transition: all .4s linear;
+    -ms-transition: all .4s linear;
+     -o-transition: all .4s linear;
+        transition: all .4s linear;}
+
+.social li.firstItem{border-radius: 3px 0 0 0}
+.social li.lastItem{border-radius: 0 0 0 3px}
+.social-apear{top: 0%;}
+
+
+
+.expanded.facebook{ background: #2A4588; }
+.expanded.pinterest{background: #AE0017;}
+.expanded.youtube{background: #C00D18;}
+.expanded.instagram{ 
+ background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(45deg, #F7C200, #DA0629,#6725A4); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(45deg, #F7C200, #DA0629,#6725A4); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(45deg, #F7C200, #DA0629,#6725A4); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(45deg, #F7C200, #DA0629,#6725A4); /* Standard syntax */ }
+
+.expanded.twitter{background: #1da1f2;}  
+.expanded.googleplus{background: #d34836;} 
+.expanded.linkedin{background: #006599;} 
+.expanded.spotify{background: #1ed760;} 
+.expanded.reddit{background: #ff4501;} 
+.expanded.tumblr{background: #36465d;} 
+.expanded.wechat{background: #5bb947;} 
+/*.expanded.{background: #;} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*WIDGET*/
+
+.redesSocialesWidget{text-align: center;}
+.redesSocialesWidget ul li{display: inline-block;padding: 0!important;}
+
+
+
+
+/*SHORTCODE*/
+.shortcodeUl{display: inline-block;}
+.shortcodeUl li{list-style: none;display: inline-block;padding: 5px 10px;}
